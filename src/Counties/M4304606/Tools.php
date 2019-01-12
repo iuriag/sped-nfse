@@ -1,6 +1,6 @@
 <?php
 
-namespace NFePHP\NFSe\Counties\M4305108;
+namespace NFePHP\NFSe\Counties\M4304606;
 
 /**
  * Classe para a comunicação com os webservices da
@@ -17,7 +17,7 @@ namespace NFePHP\NFSe\Counties\M4305108;
  * @link      http://github.com/nfephp-org/sped-nfse for the canonical source repository
  */
 
-use NFePHP\NFSe\Models\Infisc\Tools as ToolsModel;
+use NFePHP\NFSe\Models\Abaco\Tools as ToolsModel;
 
 class Tools extends ToolsModel
 {

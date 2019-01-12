@@ -1,6 +1,6 @@
 <?php
 
-namespace NFePHP\NFSe\Counties\M4305108;
+namespace NFePHP\NFSe\Counties\M4304606;
 
 /**
  * Classe para extração dos dados retornados pelos webservices da
@@ -16,7 +16,7 @@ namespace NFePHP\NFSe\Counties\M4305108;
  * @link      http://github.com/nfephp-org/sped-nfse for the canonical source repository
  */
 
-use NFePHP\NFSe\Models\Infisc\Response as ResponseModel;
+use NFePHP\NFSe\Models\Abaco\Response as ResponseModel;
 
 class Response extends ResponseModel
 {

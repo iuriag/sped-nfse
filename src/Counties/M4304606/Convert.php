@@ -1,6 +1,6 @@
 <?php
 
-namespace NFePHP\NFSe\Counties\M4305108;
+namespace NFePHP\NFSe\Counties\M4304606;
 
 /**
  * Classe a construção do xml da NFSe
@@ -17,7 +17,7 @@ namespace NFePHP\NFSe\Counties\M4305108;
  * @link      http://github.com/nfephp-org/sped-nfse for the canonical source repository
  */
 
-use NFePHP\NFSe\Models\Infisc\Convert as ConvertModel;
+use NFePHP\NFSe\Models\Abaco\Convert as ConvertModel;
 
 class Convert extends ConvertModel
 {
